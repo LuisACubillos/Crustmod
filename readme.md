@@ -22,7 +22,7 @@ Codes are writen in [ADMB](http://www.admb-project.org/) ([Fournier et al. 2012]
 
 SAM: Stock assessment models.
 
-OP1, OP2, OP3, ...: Operating models with different structural configurations
+op1, op2, op3, ...: Operating models with different structural configurations
 
 ### Requerimientos
 
