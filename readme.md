@@ -1,14 +1,10 @@
-# MSE Chilean crustacean fisheries
+# Harvest control rules for Chilean crustacean fisheries
 
-Management Strategy Evaluation (MSE) for demersal crustacean fisheries in Chile:
+The demersal crustacean fisheries in Chile, targeting nylon shrimp (_Heterocarpus reedi_), red squat lobster (_Grimothea monodon_), and yellow squat lobster (_Grimothea johni_) represent five single-species fishery units, and the management objective is to achieve the maximum sustainable yield (MSY).
 
-a) yellow squat lobster (_Grimothea johni_),
+The management challenge is to set simple, interpretable, robust, and precautionary harvest control rules (HCRs) to determine the primary management metric, i.e., an acceptable biological catch (ABC). The precautionary elements for a resilient HCR must consider a buffer for the target reference point, status-dependent thresholds and limits, and either model-based or data-based approaches. This project aims to evaluate the current management strategies for all certified fishery units of demersal crustaceans in Chile by using a Management Strategy Evaluation (MSE) framework. 
 
-b) red squat lobster (_Grimothea monodon_),
-
-c) nylon shrimp (_Heterocarpus reedi_). 
-
-This activity is part of the results of the MSC-OSF grant, entitled: “Evaluation of resilient harvest control rules for sustainable management of the Chilean demersal crustacean fisheries”, led by Dr. Luis A. Cubillos, [COPAS Coastal](https://copas-coastal.cl/), [Department of Oceanography](http://oceanografia.udec.cl), [University of Concepción, Concepción, Chile](https://www.udec.cl/pexterno/):
+This repository is part of the activities of the MSC-OSF grant, entitled: “Evaluation of resilient harvest control rules for sustainable management of the Chilean demersal crustacean fisheries”, led by Dr. Luis A. Cubillos, [COPAS Coastal](https://copas-coastal.cl/), [Department of Oceanography](http://oceanografia.udec.cl), [University of Concepción, Concepción, Chile](https://www.udec.cl/pexterno/):
 
  * María José Cuevas: Coding, assessment, and analysis of results.
 
