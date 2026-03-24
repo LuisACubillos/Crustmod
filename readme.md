@@ -14,7 +14,48 @@ This repository is part of the activities of the MSC-OSF grant, entitled: “Eva
 
 * Andrés Cubillos: Administration.
 
- * Luis A. Cubillos: Project manager, conceptualization, evaluation of management strategies, coding, performance evaluation, and analysis of results.
+* Luis A. Cubillos: Project manager, conceptualization, evaluation of management strategies, coding, performance evaluation, and analysis of results.
+
+## Meetings
+
+- **27-03-2025: Comité de Manejo**, Tema: Reporte  Distribución de la biomasa de crustáceos demersales en la Unidad de Pesquería Sur.
+
+- **20-05-2025:	Certificación MSC**, Tema: Auditoria seguimiento certificación MSC - Coordina: Bureau Veritas                 
+
+- **04-06-2025: Comité Científico-Técnico**, Tema: Reunión Crustáceos Demersales	Segunda sesión de CCT-CD: presentación Proyecto MSC-OSF      
+
+- **26-06-2025:	Comité de Manejo**, Presentación Proyecto MSC OSF para evaluar estrategias de gestión sostenible en pesquerías de crustáceos demersales 
+
+- **11-07-2025:	Presidente Comité de Manejo**, Tema:	Revisión de reglas de control de captura de crustáceos demersales.
+
+- **14-07-2025: CrustaSur SpA**, Tema: Plan de Acción  MSC Crustáceos Demersales 
+
+- **30-09-2025:	Presidente Comité de Manejo**, Tema: Consulta por revisión y precisiones HCR - SUBPESCA
+
+- **08-10-2025:	Presidente Comité de Manejo**, Tema: Reunión sobre Reglas de Control de Captura - SUBPESCA 
+
+- **14/15-01-2026:	Taller de trabajo**,	Tema: Revisión por pares de la evaluación de camarón nailon, proyecto FIPA 2025-11, Viña del Mar, Chile.
+
+
+## Reports
+
+- Novemeber 2025:
+
+[Cubillos, L.A., Cuevas, M.J. 2025. Revisión y precisiones de la regla de control de captura actual
+para el manejo de crustáceos demersales.](https://github.com/LuisACubillos/Crustmod/blob/main/meetings/Reun2025-10-08_RRC/Revisión-precisionesRCC-crustáceos_demersales.pdf)
+
+- January 2026:
+
+[Cuevas, Ma.J., Cubillos L.A., 2026. Modelo de evaluación de stock estructurado por edad con heterogeneidad espacial para la pesquería de camarón nailon en Chile (Acción 1, Proyecto OSF-MSC). Universidad de Concepción, Informe Técnico EPOMAR 2026-01, 30 p.](https://github.com/LuisACubillos/Crustmod/blob/main/docs/Informe_Avance_ModeloCamarón_MSC-OSF-UdeC.pdf)
+
+- March 2026:
+
+[Cubillos L.A., Cuevas, Ma.J., 2026. Evaluación de reglas de control resilientes para el manejo sustentable de las pesquerías de crustáceos demersales chilenas (Acción 1-4, Proyecto OSF-MSC). Universidad de Concepción, Informe Técnico EPOMAR 2026-03, 37 p.](https://github.com/LuisACubillos/Crustmod/blob/main/docs/InfTec_ProyectoMSC-OSF_año1.pdf)
+
+
+## Empirical harvest control rules
+
+[Generic empirical harvest control rules for demersal crustacean fisheries](https://github.com/LuisACubillos/Crustmod/blob/main/docs/hcr_demersal_crustacean_fisheries.png)
 
 ## Technical issues
 
