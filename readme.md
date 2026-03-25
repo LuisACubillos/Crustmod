@@ -55,7 +55,7 @@ para el manejo de crustáceos demersales.](https://github.com/LuisACubillos/Crus
 
 ## Empirical harvest control rules
 
-[Generic empirical harvest control rules for demersal crustacean fisheries](https://github.com/LuisACubillos/Crustmod/blob/main/docs/hcr_demersal_crustacean_fisheries.png)
+![](https://github.com/LuisACubillos/Crustmod/blob/main/docs/hcr_demersal_crustacean_fisheries.png)
 
 ## Technical issues
 
